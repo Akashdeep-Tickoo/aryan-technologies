@@ -174,5 +174,55 @@
 .titleButton a:hover{
   color: black;
 }
-@media (max-width:768px){
+.carousel-item h3{
+  margin-top: 2%;
+}
+.contact-us{
+  background-color: #3AB4F2;
+}
+.contact-us .container{
+  height: 100%;
+}
+.img1-footer img{
+  width: 100%;
+  height: 670px;
+  margin-top: 7%
+}
+.footer-text p{
+  text-align: center;
+  color:white;
+  font-family: Montserrat;
+  font-size: 4.2rem;
+  margin-top: 7%;
+}
+.footer-form label{
+  font-family: ubuntu;
+  color: white;
+  font-size: 1.2rem;
+}
+.footer-title{
+  font-family: Montserrat;
+  color:white;
+  font-size: 2rem;
+}
+.footer-title-text{
+  font-family: ubuntu;
+  color: white;s
+
+}
+.footer-contact{
+  padding-left: 15%;
+  padding-top: 5%;
+}
+.footer-partition{
+  padding-left: 6%;
+}
+.footer-contact-block{
+  padding-top: 7%;
+}
+.footer-contact-block a{
+  color:white;
+}
+.footer-contact-block a:hover{
+  color:#3AB4F2;
 }
